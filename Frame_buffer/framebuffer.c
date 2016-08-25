@@ -9,7 +9,7 @@
 #include <stdlib.h>
 
 #define	height	1080
-#define	width	1920	//123456789
+#define	width	1920	//12345
 
 #define	height2	480
 #define	width2	720
@@ -235,7 +235,7 @@ void YUVtoRGB(unsigned char *Y, unsigned char *U, unsigned char *V)
 			B[i][j] = b[i + j*width];
 		}
 	}
-	for (j = 0; j < height; j++)	//§PÂ_RGB¬O§_¦b½d³ò¤º
+	for (j = 0; j < height; j++)	//Â§PÃ‚_RGBÂ¬OÂ§_Â¦bÂ½dÂ³Ã²Â¤Âº
 	{
 		for (i = 0; i < width; i++)
 		{
