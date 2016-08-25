@@ -9,7 +9,7 @@
 #include <stdlib.h>
 
 #define	height	1080
-#define	width	1920
+#define	width	1920	//123456789
 
 #define	height2	480
 #define	width2	720
